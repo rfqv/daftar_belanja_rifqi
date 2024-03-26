@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "30269970857",
+    "firebase_url": "https://tes0-2226250075p-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tes0-2226250075p",
+    "storage_bucket": "tes0-2226250075p.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30269970857:android:02d96e064743aa71584cb8",
+        "android_client_info": {
+          "package_name": "com.example.daftar_belanja_rifqi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzsQygmsp_9Ed0Q2d6SJHRR_o-1I0Z7bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30269970857:android:fe7865fe043782ac584cb8",
+        "android_client_info": {
+          "package_name": "com.rifqiif4b.daftarbelanja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzsQygmsp_9Ed0Q2d6SJHRR_o-1I0Z7bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
